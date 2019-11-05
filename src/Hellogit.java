@@ -6,6 +6,7 @@ public class Hellogit {
 		System.out.println("lalal");
 		////////////啦
 		System.out.println("hi");
+		//heiheihei
 	}
 ////
 }
